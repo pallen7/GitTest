@@ -12,6 +12,7 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("First check in");
             Console.WriteLine("First commit in Dev branch");
+            Console.WriteLine("Second commit in Dev branch");
         }
     }
 }
