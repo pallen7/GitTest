@@ -11,6 +11,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Console.WriteLine("First check in");
+            Console.WriteLine("First commit in Dev branch");
         }
     }
 }
